@@ -1,0 +1,2 @@
+# TB70-AND-TB74-BILL-ACCEPTOR-FIRMWARE-UPDATE-FOR-PHILIPPINE-PESO-USING-PICKIT3.5-AND-MPLABX
+Firmware update and configuration files for TB70 and TB74 Bill Acceptors to support Philippine Peso (PHP) denominations. This repository provides the HEX files and documentation for flashing ICT bill validators using a PICkit 3.5 programmer and MPLAB X IDE. Ideal for local vending, arcade, and kiosk maintenance.
